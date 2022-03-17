@@ -24,6 +24,6 @@ export default {
 
   display: flex;
   justify-content: center;
-  flex-flow: column;
+  flex-direction: column;
 }
 </style>
